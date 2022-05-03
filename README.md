@@ -1,4 +1,4 @@
-# BookShop
+# Book Shop
 <p>You are given the simulation for selling books.</p>
 <p>Each <code>Customer</code> is buying 5000 book from the <code>BookShop</code>. Buying a single
 book is done buy calling <code>buyBook</code> function on <code>BookShop</code>. <code>main</code> contains
